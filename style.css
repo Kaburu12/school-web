@@ -1,0 +1,60 @@
+.img {
+    width: 200px;
+    height: 150px;
+    padding: auto;
+    border-radius: 20px
+}
+
+;
+.center {
+    text-align: center;
+}
+
+;
+.body {
+    color: aqua;
+}
+
+.li {
+    color: darkkhaki;
+}
+
+h1 {
+    background-color: chartreuse;
+    text-align: center;
+}
+
+li {
+    color: darkgoldenrod;
+}
+
+* {
+    color: black;
+    background-color: aqua;
+}
+
+.paragraph {
+    color: rgb(56, 55, 223);
+}
+
+li {
+    color: black;
+    font-size: medium;
+    font-style: italic;
+}
+
+.vision {
+    color: black;
+    font-weight: 600;
+    display: inline;
+}
+
+.br {
+    color: red
+}
+
+.breakpage {
+    background-color: aliceblue;
+    padding: 20px 40px;
+    margin: 10px;
+}
