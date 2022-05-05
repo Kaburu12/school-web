@@ -2,15 +2,11 @@
     width: 200px;
     height: 150px;
     padding: auto;
-    border-radius: 20px
+    border-radius: 20px;
+    align-items: flex-end;
+    image-rendering: auto;
 }
 
-;
-.center {
-    text-align: center;
-}
-
-;
 .body {
     color: aqua;
 }
@@ -55,6 +51,21 @@ li {
 
 .breakpage {
     background-color: aliceblue;
-    padding: 20px 40px;
-    margin: 10px;
+    padding: 5px;
+}
+
+.video {
+    color: black;
+}
+
+#pics {
+    overflow: scroll;
+}
+
+li {
+    list-style: none;
+}
+
+nav {
+    overflow: scroll;
 }
