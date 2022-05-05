@@ -1,10 +1,11 @@
 .img {
-    width: 200px;
-    height: 150px;
+    width: 25%;
+    height: 25%;
     padding: auto;
     border-radius: 20px;
     align-items: flex-end;
     image-rendering: auto;
+    list-style: none;
 }
 
 .body {
